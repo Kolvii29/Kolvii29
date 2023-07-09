@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Kelvin Orozco R.</a> 👋</h1>
+<h1 align="center">Hola, soy Kelvin Orozco R.</a> 👋</h1>
 </div>
 
 ## Sobre mi
 
-- 📲 Estudiante Android developer
+- 📲 Full Android developer
 - Costa Rica
 <!--
 **Kolvii29/Kolvii29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
